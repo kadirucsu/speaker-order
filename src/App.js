@@ -29,7 +29,7 @@ function App() {
     <div className="App">
       {
         list.map((v, i) => {
-          return <p>{`${i}) ${v}`}</p>
+          return <p>{`${i+1}) ${v}`}</p>
         })
       }
     </div>
