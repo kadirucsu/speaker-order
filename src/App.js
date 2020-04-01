@@ -13,7 +13,7 @@ function App() {
     'Gökhan',
     'Alkan',
     'Enes',
-    'Omid',
+    'Ata',
     'Arek',
     'Medet'
   ]
