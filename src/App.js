@@ -22,7 +22,7 @@ function App() {
 
   React.useEffect(() => {
     setList(_.shuffle(list))
-  });
+  },[]);
 
 
   return (
